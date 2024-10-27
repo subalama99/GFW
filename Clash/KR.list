@@ -1,0 +1,25 @@
+# 内容：Korean Financial Service
+# 域名关键字匹配
+# 域名后缀匹配
+
+# Kookmin bank
+DOMAIN-SUFFIX,kbsec.com
+DOMAIN-SUFFIX,kbstar.com
+DOMAIN-SUFFIX,kbdmp.com
+DOMAIN-SUFFIX,kbcard.com
+# Kbank
+DOMAIN-SUFFIX,kbanknow.com
+# Hanpass
+DOMAIN-SUFFIX,hanpass.com
+# Toss
+DOMAIN-SUFFIX,toss.im
+DOMAIN-SUFFIX,tossinvest.com
+DOMAIN-SUFFIX,tossbank.com
+# Upbit
+DOMAIN-SUFFIX,upbit.com
+# Kakaopay
+DOMAIN-SUFFIX,kakaopaysec.com
+DOMAIN-SUFFIX,kakaopaysec-stock.com
+# PASS(KT)
+DOMAIN-SUFFIX,olleh.com
+DOMAIN-SUFFIX,kt.com
