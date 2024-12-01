@@ -11,14 +11,6 @@ DOMAIN-SUFFIX,kbcard.com
 DOMAIN-SUFFIX,kbanknow.com
 # Hanpass
 DOMAIN-SUFFIX,hanpass.com
-# Toss
-DOMAIN-SUFFIX,toss.im
-DOMAIN-SUFFIX,tossinvest.com
-DOMAIN-SUFFIX,tossbank.com
-# Upbit
-DOMAIN-KEYWORD,upbit
-DOMAIN-SUFFIX,upbit.com
-DOMAIN-SUFFIX,ubcindex.com
 # Kakaopay
 DOMAIN-SUFFIX,kakaopaysec.com
 DOMAIN-SUFFIX,kakaopaysec-stock.com
