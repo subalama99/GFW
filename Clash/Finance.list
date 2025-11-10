@@ -7,8 +7,6 @@ DOMAIN-SUFFIX,kbsec.com
 DOMAIN-SUFFIX,kbstar.com
 DOMAIN-SUFFIX,kbdmp.com
 DOMAIN-SUFFIX,kbcard.com
-# Kbank
-DOMAIN-SUFFIX,kbanknow.com
 # Hanpass
 DOMAIN-SUFFIX,hanpass.com
 # Kakaopay
@@ -17,3 +15,4 @@ DOMAIN-SUFFIX,kakaopaysec-stock.com
 # PASS(KT)
 DOMAIN-SUFFIX,olleh.com
 DOMAIN-SUFFIX,kt.com
+
